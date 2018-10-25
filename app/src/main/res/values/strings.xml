@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationExample</string>
+
+    // TODO: 22/02/18
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+</resources>
